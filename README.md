@@ -4,6 +4,8 @@
 
 A repository to write a program to connect to direct2internet payment page.
 
+Target: https://pay.direct2internet.com/pay/test
+
 ![direct2internet screenshot](screenshot4.png)
 
 -----------
