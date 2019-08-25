@@ -4,9 +4,9 @@
 
 A repository to write a program to connect to direct2internet payment page.
 
------------
-
 ![direct2internet screenshot](screenshot4.png)
+
+-----------
 
 ![direct2internet screenshot](screenshot1.png)
 
