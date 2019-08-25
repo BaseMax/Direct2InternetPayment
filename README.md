@@ -1,12 +1,20 @@
 # direct2internet
 
+## How we can use direct2internet API? 
+
 A repository to write a program to connect to direct2internet payment page.
+
+-----------
 
 ![direct2internet screenshot](screenshot1.png)
 
 ![direct2internet screenshot](screenshot2.png)
 
 ![direct2internet screenshot](screenshot3.png)
+
+## Based On
+
+- https://github.com/BaseMax/SHA256HashGeneratorJS/blob/master/README.md
 
 ## References
 
