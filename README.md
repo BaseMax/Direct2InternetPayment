@@ -1,4 +1,4 @@
-# direct2internet
+# Direct2Internet
 
 ## How we can use direct2internet API? 
 
