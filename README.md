@@ -16,7 +16,8 @@ A repository to write a program to connect to direct2internet payment page.
 
 ## Based On
 
-- https://github.com/BaseMax/SHA256HashGeneratorJS/blob/master/README.md
+- [jQuery 3.4.1](https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js)
+- [SHA256 Hash Generator JS](https://github.com/BaseMax/SHA256HashGeneratorJS)
 
 ## References
 
