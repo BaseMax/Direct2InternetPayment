@@ -133,10 +133,9 @@ function recalcMAC() {
 		}
 	}
 	allInputs.sort();
-	var nstr = joinData(allInputs) + $("#secret")[0].value;
-	alert(nstr);
-	var machash = Sha256.hash(nstr)
-	$("#mac")[0].value = machash;
+	var value = joinData(allInputs) + $("#secret")[0].value;
+	var value_hash = Sha256.hash(value)
+	$("#mac")[0].value = value_hash;
 	$("#form").submit();
 }
 </script>
