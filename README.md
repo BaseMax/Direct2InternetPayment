@@ -1,4 +1,4 @@
-# Direct2Internet
+# Direct2Internet Payment
 
 ## How we can use direct2internet API? 
 
