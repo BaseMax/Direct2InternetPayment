@@ -14,7 +14,6 @@ Target: https://pay.direct2internet.com/pay/test
 
 ![direct2internet screenshot](screenshot2.png)
 
-![direct2internet screenshot](screenshot3.png)
 
 ## Based On
 
